@@ -36,5 +36,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Main Channel : [Click Me](https://t.me/comedypannathingasir)
+➥ Main Channel : [Click Here](https://t.me/cpsHD)
 """
