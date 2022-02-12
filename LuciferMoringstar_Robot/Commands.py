@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('Join Channel', url=f'{https://t.me/cpsHD}')
+            InlineKeyboardButton(' Join our Channel ', url=f'{https://t.me/cpsHD}')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
